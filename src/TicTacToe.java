@@ -1,7 +1,6 @@
 import java.util.concurrent.TimeUnit;
 import java.util.Scanner;
 public class TicTacToe {
-    //char[][] currentState = new char[3][3];
     char playerTurn = 'X'; //Assigning the first turn to X
     int[] move = new int[2]; //To store the moves returned by the minimax algorithm
     char endGame;
