@@ -10,16 +10,12 @@ How to play:
 The computer prints the board with its move since it is X. You have to input your cell number of the matrix where you want to mark O.
 For example,
 
-X|_|O
-_|X|_
-_|_|_
+![](Images/1.png)
 
-here you want to stop the computer from winning then you should input 3,3.
+here you want to stop the computer from winning then you should input 1,3.
 This will mark the O at this position,
 
-X|_|O
-_|X|_
-_|_|O
+![](Images/2.png)
 
 This was my first attempt at working with a minimax algorithm and its so fascinating to see a computer figure out moves to play against you almost like a real human.
 Feel free to let me know how I could make this code better :)
