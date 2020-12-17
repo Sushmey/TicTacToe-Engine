@@ -209,7 +209,7 @@ public class TicTacToe {
                     long startTime = System.nanoTime();
                     result = bestMove(currentState);
                     long endTime = System.nanoTime();
-                    System.out.println("Evaluation time: " + (endTime - startTime)/10000);
+                    System.out.println("Evaluation time: " + (float)(endTime - startTime)/1000000);
                     currentState[result[0]][result[1]] = 'X';
                     playerTurn = 'O';
                 }
