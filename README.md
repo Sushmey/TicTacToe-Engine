@@ -18,4 +18,4 @@ This will mark the O at this position,
 ![](Images/2.png)
 
 This was my first attempt at working with a minimax algorithm and its so fascinating to see a computer figure out moves to play against you almost like a real human.
-Feel free to let me know how I could make this code better :)
+Feel free to let me know how I can make this code better :)
