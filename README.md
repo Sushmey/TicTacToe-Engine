@@ -6,7 +6,7 @@ This code uses MiniMax algorithm with Alpha-Beta Pruning for faster computation 
 This makes the execution 10-20 times faster.
 You can also use the depth parameter incase you don't want to make the tree very large but in a game with 9 squares this won't be that much of a problem so I didn't feel like using it myself.
 
-How to play:
+# How to play
 The computer prints the board with its move since it is X. You have to input your cell number of the matrix where you want to mark O.
 For example,
 
